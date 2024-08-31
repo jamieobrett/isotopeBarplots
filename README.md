@@ -18,3 +18,5 @@ The first row contains these headers names exactly as written
  Sample names syntax (you will need to carefully rename your IsoCorrectoR output columns and your metadata Name entries if needed):
  - No spaces or symbols other than "_" or "."
  - Start with a letter, not a number or symbol
+
+In master is the R script and example input and output files.
