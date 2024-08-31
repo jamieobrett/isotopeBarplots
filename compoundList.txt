@@ -1,0 +1,99 @@
+Glutamine
+Threonine
+Serine
+Isoleucine
+Glutamic acid
+Methionine
+Alanine
+Proline
+Phenylalanine
+Aspartic acid
+Tyrosine
+Asparagine
+Valine
+Leucine
+Tryptophan
+Lysine
+Arginine
+Histidine
+Hypotaurine
+Taurine
+Aminoadipic acid
+Cysteine sulfinic acid
+5-Oxoproline
+Urocanic acid
+Cystathionine
+Cysteic acid
+3-Hydroxyisobutyric acid
+N-Acetylasparagine
+S-Adenosylhomocysteine
+N-Acetylalanine
+5-Aminovaleric acid
+cis-4-Hydroxy-D-proline
+N-Acetylneuraminic acid
+N-Acetylhexosamines
+Glucosamine 6-phosphate
+Glucosamine
+D-Mannosamine
+Nicotinamide adenine dinucleotide
+Pyridoxine
+Folic acid
+Nicotinamide adenine dinucleotide phosphate
+Flavin adenine dinucleotide
+Pantothenic acid
+Nicotinamide adenine dinucleotide phosphate hydrogen
+Coenzyme A
+Creatine
+Phosphocreatine
+Glutathione
+Glycerol
+Phosphoglyceric acid
+Lactic acid
+Glucose 6-phosphate
+Dihydroxyacetone phosphate
+Phosphoenolpyruvic acid
+Glycerol 3-phosphate
+Pyruvic acid
+Glucose
+Glyceraldehyde 3-phosphate
+3-Hydroxymethylglutaric acid
+3-Hydroxy-3-methylglutaryl coenzyme A
+Thymidine diphosphate glucose
+Uridine diphosphate glucose
+Uridine diphosphate-N-acetylglucosamine
+Uridine diphosphate glucuronic acid
+6-Phosphogluconic acid
+Fructose 6-phosphate
+Phosphorylcholine
+Inosine monophosphate
+Uric acid
+Inosine
+Guanosine
+Adenosine diphosphate
+Adenosine monophosphate
+Xanthosine
+Guanosine triphosphate
+Adenine
+Guanosine monophosphate
+Adenosine triphosphate
+Cyclic adenosine monophosphate
+Deoxyadenosine triphosphate
+Cytidine
+Thymidine
+Uridine monophosphate
+Deoxycytidine monophosphate
+Cytidine monophosphate
+Thymidine monophosphate
+Cytidine triphosphate
+Uridine diphosphate
+Deoxythymidine triphosphate
+Cytidine diphosphate choline
+Citric and isocitric acid
+Succinic acid
+cis-Aconitic acid
+R-2-Hydroxyglutaric acid
+Ornithine
+N-Acetylglutamic acid
+C16:0
+C18:1
+C18:0
